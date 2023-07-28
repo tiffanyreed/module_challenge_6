@@ -1,0 +1,43 @@
+header {
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px 4px gray;
+    border-style: solid;
+    border-color: black;
+    background-color: #95CBD6;
+}
+
+h2 {
+    font-size: 30px; 
+}
+
+#Weather {
+    border-style: solid;
+}
+
+#weather1 {
+    border-style: solid;
+}
+#weather2 {
+    border-style: solid;
+}
+#weather3 {
+    border-style: solid;
+}
+#weather4 {
+    border-style: solid;
+}
+#weather5 {
+    border-style: solid;
+}
+div {
+    margin: 5px
+}
+
+.container {
+    float: right;
+    margin-top: -80px;
+    margin-right: 50px;
+}
